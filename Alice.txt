@@ -1,3 +1,4 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 Modificação texto da alice
 Mais uma modificação texto da alice
+Novamente modificação na alice
