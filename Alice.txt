@@ -4,3 +4,4 @@ Mais uma modificação texto da alice
 Novamente modificação na alice
 Editando pelo site
 Editando pelo site x2
+Editando pelo site, pull com conflitos
