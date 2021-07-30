@@ -5,3 +5,5 @@ Novamente modificação na alice
 Editando pelo site
 Editando pelo site x2 teste, pull com conflitos
 alteração no repositório remoto
+alteração interactive rebase
+alteração interactive rebase x2
